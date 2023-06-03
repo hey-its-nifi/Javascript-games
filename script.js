@@ -58,7 +58,7 @@ const animationStates = [
         frames: 12,
     },
     {
-        name: 'getHit',
+        name: 'gethit',
         frames: 4,
     }
 ];
